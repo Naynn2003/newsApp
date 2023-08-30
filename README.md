@@ -1,5 +1,6 @@
 <snippet>
   <content><![CDATA[
+    
 # ${1:News Webapp}
 TODO: Write a project description
 ## Installation
