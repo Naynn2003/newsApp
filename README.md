@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-    
-# ${1:News Webapp}
+
+## 1:News Webapp
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
